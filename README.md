@@ -1,3 +1,8 @@
+# Comments
+
+### This is a simple React based website in which there is a list of comments. This project is good for beginners who want to learn React.
+
+### This project is live here: https://nancyjain0631.github.io/Comments-nancy/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+ # Made with ❤️ by Nancy
